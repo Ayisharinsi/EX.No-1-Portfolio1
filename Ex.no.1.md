@@ -1,6 +1,6 @@
 # Ex01 Portfolio
-Name: Ayisha Rinsi k
-Reg No: 212223040022
+## Name: Ayisha Rinsi k
+## Reg No: 212223040022
 ## Date:3-9-25
 
 ## AIM
